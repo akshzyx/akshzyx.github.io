@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a second year undergraduate student at National Institute of Technology Hamirpur, Himachal Pradesh, currently pursuing my bachelor's degree in Chemical Engineering.
+Hi, I’m Akshit, a second year undergraduate student at National Institute of Technology Hamirpur, Himachal Pradesh, currently pursuing my bachelor's degree in Chemical Engineering.
 
 I’m passionate about developing products that make people's lives easier. These days, I’m working on polishing my programming skills.
 
